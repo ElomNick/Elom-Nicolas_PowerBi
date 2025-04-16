@@ -7,4 +7,4 @@ Full Sales Portfolio Dashboard here : [Sales Dashboard PowerBi Link](https://app
 
 
 Full Financial_Performance Dashboard here : [Financial Performance PowerBi Link](https://app.powerbi.com/reportEmbed?reportId=96b3d646-d577-4c94-bfed-30e81d35b027&autoAuth=true&ctid=064bf0bf-4950-4188-8061-671e68712790)
-![Financial_Performance]Portfolio Dashboard - Sales.png
+![Financial_Performance]Financial_Performance_France.png
